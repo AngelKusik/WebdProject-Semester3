@@ -2,6 +2,7 @@
     /*
     * Name: Angelica Kusik
     * Date: September 21, 2022
+    * Last Update: December 5
     * Course: Webd 3203-01
     */
     
@@ -19,11 +20,11 @@
     $error_message = "";
     $email_address = "";
 
-    //Before requiring the user to login, check if the user is already on the session (aka validated already)
-    if(isset($_SESSION['user']))
+    //Before requiring the user to login, check if the user is already on the session:
+    //if user has a session as an admin, redirect to dashboard
+    //if user has a session as salesperson, let them access the login page to log as admin
+    if(isset($_SESSION['user']['type'])&&($_SESSION['user']['type']==ADMIN))  //(isset($_SESSION['user']))
     {
-        //If so, call the redirect_user funtion and pass in the dashboard url and redirect the user 
-        //without requesting the email and password again.
         redirect_user('dashboard.php');
     }
 
@@ -60,38 +61,55 @@
                 //If so return the user's records from the database, otherwise, return false
                 $user = user_authenticate($password, $email_address);
 
-                //If the user records were successfully returned, carry on
-                if($user){  
-                    //Before transfering user to dashboard:
-                    //1) Add autenticated user to the session
-                    $_SESSION['user'] = $user;
-                    //dump($user);
-
-                    //2) Update lastAccess timestamp on the database
-                    user_update_login_time($now, $email_address);
-
-                    //3) Add a welcome message to the session (will be used on the dasboard)
-                    //validate if the last access exist, if the lastaccess is empty then only display message welcome back $user
-                    if(isset($user['lastaccess']))
-                    {
-                        set_message("Welcome back " .$user['firstname']. "! Your last login was at " .$user['lastaccess']);
+                //If the user records were successfully returned, check the active status of the user
+                if($user){ 
+                    //Now check the active status of the user
+                    if($user['active'] == 'f'){
+                        //if user is inactive, display an error message
+                        $error_message .= "User account inactive, access denied <br/>";
+                        $email_address = "";
+                        $password = "";
                     }
-                    else 
-                    {
-                        set_message("Welcome back " .$user['firstname']. "!");
+
+                    //if there is no error message carry on
+                    if(strlen($error_message) == 0){
+                        //Before transfering user to dashboard:
+                        //1) Add autenticated user to the session
+                        $_SESSION['user'] = $user;
+                        //dump($user);
+
+                        //2) Update lastAccess timestamp on the database
+                        user_update_login_time($now, $email_address);
+
+                        //3) Add a welcome message to the session (will be used on the dasboard)
+                        //validate if the last access exist, if the lastaccess is empty then only display message welcome back $user
+                        if(isset($user['lastaccess']))
+                        {
+                            set_message("Welcome back " .$user['firstname']. "! Your last login was at " .$user['lastaccess']);
+                        }
+                        else 
+                        {
+                            set_message("Welcome back " .$user['firstname']. "!");
+                        }
+                        
+                        //4) Register on the logs the successfull login info
+                        fwrite($handle, "Sign in success at ".$today.". User " .$email_address. " sign in.\n");
+
+                        //5)Close the log file
+                        fclose($handle);
+                        
+                        //Now transfer user to dashboard page using the redirect_user function
+                        redirect_user('dashboard.php');
+
+                        //And flush the buffer
+                        ob_flush();      
                     }
-                    
-                    //4) Register on the logs the successfull login info
-                    fwrite($handle, "Sign in success at ".$today.". User " .$email_address. " sign in.\n");
-
-                    //5)Close the log file
-                    fclose($handle);
-                    
-                    //Now transfer user to dashboard page using the redirect_user function
-                    redirect_user('dashboard.php');
-
-                    //And flush the buffer
-                    ob_flush();      
+                    else
+                    {
+                        //If user could not be verified, calls the handle_failed_login function to register unsuccessfull login attempt in the logs
+                        //and create an error message
+                        handle_failed_login($handle, $now, $email_address, $error_message);
+                    }
                 }
                 else 
                 {
@@ -125,6 +143,9 @@
     {
         echo "<h2>" .get_message() . "</h2>";
     }
+
+    flash_error();
+
     ?>
     <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
     <label for="inputEmail" class="sr-only">Email address</label>

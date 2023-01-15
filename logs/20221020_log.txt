@@ -1,1 +1,77 @@
 Sign in success at 20221020. User akusik@dcmail.ca sign in.
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Failed sign in attempt at 2022-10-20 18:32:01 User a@a.
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Failed sign in attempt at 2022-10-20 18:33:53 User b@l.
+Failed sign in attempt at 2022-10-20 18:37:07 User a@a.
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+New salesperson successfully added at 2022-10-20 19:16:34: Theodore Kusik.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+New salesperson: Claire kusik, successfully added at 2022-10-20 19:22:19 by Angelica.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+Sign in success at 20221020. User akusik@dcmail.ca sign in.
+Failed attempt to add new salesperson  by user: Angelica at 2022-10-20 19:27:47.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221020. User .
+Sign in success at 20221020. User akusik@dcmail.ca sign in.

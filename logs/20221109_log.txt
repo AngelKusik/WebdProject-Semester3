@@ -1,0 +1,43 @@
+Sign in success at 20221109. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221109. User .
+Sign in success at 20221109. User akusik@dcmail.ca sign in.
+Failed attempt to change password by user: Angelica at 2022-11-09 22:03:35.
+Failed attempt to change password by user: Angelica at 2022-11-09 22:08:22.
+Failed attempt to change password by user: Angelica at 2022-11-09 22:23:56.
+Failed attempt to change password by user: Angelica at 2022-11-09 22:25:03.
+Failed attempt to change password by user: Angelica at 2022-11-09 22:26:18.
+You sucessfully log out at 20221109. User .
+Failed sign in attempt at 2022-11-09 22:29:13 User akusik@dcmail.ca.
+Sign in success at 20221109. User akusik@dcmail.ca sign in.
+Failed attempt to change password by user: Angelica at 2022-11-09 22:32:56.
+Failed attempt to change password by user: Angelica at 2022-11-09 22:33:37.
+Failed attempt to change password by user: Angelica at 2022-11-09 22:33:47.
+You sucessfully log out at 20221109. User .
+Sign in success at 20221109. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221109. User .
+You sucessfully log out at 20221109. User .
+You sucessfully log out at 20221109. User .
+Failed sign in attempt at 2022-11-09 22:45:41 User akusik@dcmail.ca.
+Failed sign in attempt at 2022-11-09 22:45:50 User akusik@dcmail.ca.
+Failed sign in attempt at 2022-11-09 22:45:54 User akusik@dcmail.ca.
+Failed sign in attempt at 2022-11-09 22:46:04 User akusik@dcmail.ca.
+Failed sign in attempt at 2022-11-09 22:46:14 User salesperson1@gmail.ca.
+Failed sign in attempt at 2022-11-09 22:48:17 User akusik@dcmail.ca.
+Failed sign in attempt at 2022-11-09 22:48:35 User akusik@dcmail.ca.
+Failed sign in attempt at 2022-11-09 22:48:38 User akusik@dcmail.ca.
+Failed sign in attempt at 2022-11-09 22:50:05 User admin@gmail.ca.
+Sign in success at 20221109. User salesperson2@gmail.ca sign in.
+You sucessfully log out at 20221109. User .
+Sign in success at 20221109. User akusik@dcmail.ca sign in.
+New salesperson:  , successfully added at 2022-11-09 22:55:34 by Angelica.
+You sucessfully log out at 20221109. User .
+Sign in success at 20221109. User salesperson2@gmail.ca sign in.
+Password successfully changed 20221109 for user Ted.
+You sucessfully log out at 20221109. User .
+Sign in success at 20221109. User salesperson2@gmail.ca sign in.
+You sucessfully log out at 20221109. User .
+Sign in success at 20221109. User salesperson2@gmail.ca sign in.
+New client   was successfully added at 2022-11-09 22:57:54 by the user: Ted.
+New client   was successfully added at 2022-11-09 22:58:19 by the user: Ted.
+Failed attempt to add new client by user: Ted at 2022-11-09 22:58:43.
+New client   was successfully added at 2022-11-09 22:59:06 by the user: Ted.

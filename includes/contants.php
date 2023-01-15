@@ -9,10 +9,12 @@
     define("MAXIMUM_EMAIL_LENGTH", 255);
     define("MAX_FIRST_NAME_LENGTH", 128);
     define("MAX_LAST_NAME_LENGTH", 128);
-    //Note: I defined the constants below based on my own
-    //criteria - TODO: Check if is there any requirements regarding this
+    //Note: I defined the constants below based on my own criteria
     define("MINIMUM_PASSWORD_LENGTH", 6);
     define("MAXIMUM_PASSWORD_LENGTH", 15);
+    define("MAXIMUM_PHONE_NUMBER_LENGTH", 15);
+    define("MAXIMUM_LOGO_SIZE", 3000000); //max size in bytes
+    define("RECORDS", 10); //number of records to be shown per page 
 
     /*** COOKIES ***/
     define("COOKIE_LIFESPAN", "2592000"); //Note: 60x60x24x30 = 2592000 aka 1 month

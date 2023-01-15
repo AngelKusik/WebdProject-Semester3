@@ -1,0 +1,36 @@
+Sign in success at 20221107. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User akusik@dcmail.ca sign in.
+New client   was successfully added at 2022-11-07 18:15:19 by the user: Angelica.
+Failed attempt to add new salesperson by user: Angelica at 2022-11-07 18:25:55.
+New salesperson:  , successfully added at 2022-11-07 18:26:02 by Angelica.
+New client   was successfully added at 2022-11-07 18:26:41 by the user: Angelica.
+New client   was successfully added at 2022-11-07 18:27:09 by the user: Angelica.
+New client   was successfully added at 2022-11-07 18:27:50 by the user: Angelica.
+New client   was successfully added at 2022-11-07 18:28:12 by the user: Angelica.
+New client   was successfully added at 2022-11-07 18:28:36 by the user: Angelica.
+New client   was successfully added at 2022-11-07 18:28:56 by the user: Angelica.
+New client   was successfully added at 2022-11-07 18:29:23 by the user: Angelica.
+You sucessfully log out at 20221107. User .
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User salesperson2@gmail.ca sign in.
+Failed attempt to add new client by user: Mary at 2022-11-07 18:31:20.
+Failed attempt to add new client by user: Mary at 2022-11-07 18:32:12.
+New client   was successfully added at 2022-11-07 18:32:38 by the user: Mary.
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221107. User .
+Sign in success at 20221107. User akusik@dcmail.ca sign in.
+New salesperson:  , successfully added at 2022-11-07 20:40:41 by Angelica.
+Failed attempt to add new salesperson by user: Angelica at 2022-11-07 20:45:09.
+New salesperson:  , successfully added at 2022-11-07 20:45:19 by Angelica.

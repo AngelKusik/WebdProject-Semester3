@@ -1,0 +1,141 @@
+You sucessfully log out at 20221021. User .
+Failed sign in attempt at 2022-10-21 11:28:31 User salesperson@gmail.ca.
+Failed sign in attempt at 2022-10-21 11:28:45 User salesperson@gmail.ca.
+Failed sign in attempt at 2022-10-21 11:30:51 User salesperson@gmail.ca.
+Failed sign in attempt at 2022-10-21 11:30:59 User salesperson@gmail.ca.
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+You sucessfully log out at 20221021. User .
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Failed sign in attempt at 2022-10-21 12:46:13 User salesperson@gmail.ca.
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+New client test8 test was successfully added at 2022-10-21 12:56:29 by Angelica.
+Failed attempt to add new client by user: Angelica at 2022-10-21 13:01:23.
+New client clara test was successfully added at 2022-10-21 13:02:10 by the user: Angelica.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Failed sign in attempt at 2022-10-21 13:47:11 User salesperson@gmail.ca.
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+Failed attempt to add new client by user: Angelica at 2022-10-21 15:35:14.
+New client test8 test was successfully added at 2022-10-21 15:35:30 by the user: Angelica.
+New client test8 test was successfully added at 2022-10-21 15:35:56 by the user: Angelica.
+Failed attempt to add new client by user: Angelica at 2022-10-21 15:36:24.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+Failed attempt to add new client by user: Angelica at 2022-10-21 15:37:33.
+Failed attempt to add new client by user: Angelica at 2022-10-21 15:37:54.
+Failed attempt to add new client by user: Angelica at 2022-10-21 15:38:29.
+Failed attempt to add new client by user: Angelica at 2022-10-21 15:39:08.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Failed sign in attempt at 2022-10-21 17:26:30 User salesperson@gmail.ca.
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Failed sign in attempt at 2022-10-21 17:46:23 User salesperson@gmail.ca.
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+A call to client Jane Page was succesfully registered by user: John at 2022-10-21 17:49:26.
+A call to client Joe Doe was succesfully registered by user: John at 2022-10-21 17:57:05.
+A call to client Joe Doe was succesfully registered by user: John at 2022-10-21 17:57:37.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+A call to client Joe Doe was succesfully registered by user: Angelica at 2022-10-21 17:58:39.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+Failed attempt to add new client by user: Angelica at 2022-10-21 18:14:37.
+You sucessfully log out at 20221021. User .
+Failed sign in attempt at 2022-10-21 18:19:33 User salesperson@gmail.ca.
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+New salesperson: Mary Anne, successfully added at 2022-10-21 18:23:16 by Angelica.
+Failed attempt to add new client by user: Angelica at 2022-10-21 18:24:34.
+Failed attempt to add new client by user: Angelica at 2022-10-21 18:24:57.
+New client Joseph Mosby was successfully added at 2022-10-21 18:25:07 by the user: Angelica.
+A call to client Joseph Mosby was succesfully registered by user: Angelica at 2022-10-21 18:25:41.
+Failed attempt to add new client by user: Angelica at 2022-10-21 18:29:45.
+A call to client Joseph Mosby was succesfully registered by user: Angelica at 2022-10-21 18:30:55.
+A call to client Joseph Mosby was succesfully registered by user: Angelica at 2022-10-21 18:33:05.
+A call to client Joe Doe was succesfully registered by user: Angelica at 2022-10-21 18:34:46.
+A call to client Joseph Mosby was succesfully registered by user: Angelica at 2022-10-21 18:45:52.
+A call to client Joseph Mosby was succesfully registered by user: Angelica at 2022-10-21 18:46:33.
+A call to client Joseph Mosby was succesfully registered by user: Angelica at 2022-10-21 18:47:42.
+New salesperson: clara kusik, successfully added at 2022-10-21 19:06:10 by Angelica.
+New salesperson: clara kusik, successfully added at 2022-10-21 19:07:49 by Angelica.
+New salesperson: clara kusik, successfully added at 2022-10-21 19:08:15 by Angelica.
+New salesperson: clara kusik, successfully added at 2022-10-21 19:08:40 by Angelica.
+New salesperson: clara kusik, successfully added at 2022-10-21 19:08:53 by Angelica.
+New salesperson: clara kusik, successfully added at 2022-10-21 19:09:28 by Angelica.
+New salesperson: clara kusik, successfully added at 2022-10-21 19:09:37 by Angelica.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+Failed attempt to add new salesperson by user: Angelica at 2022-10-21 19:21:24.
+Failed attempt to add new salesperson by user: Angelica at 2022-10-21 19:21:38.
+New salesperson: Betty Eriksen, successfully added at 2022-10-21 19:21:50 by Angelica.
+New salesperson:  , successfully added at 2022-10-21 19:24:02 by Angelica.
+Failed attempt to add new salesperson by user: Angelica at 2022-10-21 19:25:40.
+Failed attempt to add new salesperson by user: Angelica at 2022-10-21 19:25:57.
+Failed attempt to add new salesperson by user: Angelica at 2022-10-21 19:26:09.
+Failed attempt to add new client by user: Angelica at 2022-10-21 19:28:27.
+Failed attempt to add new client by user: Angelica at 2022-10-21 19:28:32.
+Failed attempt to add new client by user: Angelica at 2022-10-21 19:28:42.
+You sucessfully log out at 20221021. User .
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+Failed attempt to add new salesperson by user: Angelica at 2022-10-21 19:35:35.
+New salesperson:  , successfully added at 2022-10-21 19:35:56 by Angelica.
+New client theodore kusik was successfully added at 2022-10-21 19:38:09 by the user: Angelica.
+New client   was successfully added at 2022-10-21 19:40:46 by the user: Angelica.
+A call to client Joe Doe was succesfully registered by user: Angelica at 2022-10-21 19:41:23.
+A call to client Jane Page was succesfully registered by user: Angelica at 2022-10-21 19:42:04.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221021. User .
+Sign in success at 20221021. User akusik@dcmail.ca sign in.

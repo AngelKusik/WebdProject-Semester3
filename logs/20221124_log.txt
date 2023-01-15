@@ -1,0 +1,65 @@
+New client   was successfully added at 2022-11-24 12:39:46 by the user: Admin.
+You sucessfully log out at 20221124. User .
+Failed sign in attempt at 2022-11-24 12:40:15 User admin@gmail.ca.
+Sign in success at 20221124. User admin@gmail.ca sign in.
+You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User admin@gmail.ca sign in.
+You sucessfully log out at 20221124. User .
+Failed sign in attempt at 2022-11-24 16:59:29 User salesperson2@gmail.ca.
+Failed sign in attempt at 2022-11-24 16:59:32 User salesperson2@gmail.ca.
+Failed sign in attempt at 2022-11-24 16:59:40 User salesperson2@gmail.ca.
+Sign in success at 20221124. User salesperson1@gmail.ca sign in.
+Failed sign in attempt at 2022-11-24 17:01:34 User salesperson2@gmail.ca.
+Sign in success at 20221124. User admin@gmail.ca sign in.
+Failed attempt to add new salesperson by user: Admin at 2022-11-24 17:02:52.
+New salesperson:  , successfully added at 2022-11-24 17:03:08 by Admin.
+You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User salesperson2@gmail.ca sign in.
+You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User admin@gmail.ca sign in.
+Failed attempt to reset salesperson password by user: Admin at 2022-11-24 17:04:03.
+You sucessfully log out at 20221124. User .
+You sucessfully log out at 20221124. User .
+You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User admin@gmail.ca sign in.
+Password reset 20221124 for user salesperson2@gmail.ca by ADMIN user Admin.
+
+To: salesperson2@gmail.ca 
+From: admin@gmail.ca 
+Subject: Password Reset 
+DearMeg.
+As requested, your password succesfully reset at 2022-11-24 17:05:59 by admin@gmail.ca 
+Your temporary password is: 637feac7aa296
+Please update your password next time you log-in. Thank you!You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User salesperson2@gmail.ca sign in.
+Password successfully changed 20221124 for user Meg.
+You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User salesperson2@gmail.ca sign in.
+You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User admin@gmail.ca sign in.
+Password reset at 2022-11-24 17:09:56 for user salesperson2@gmail.ca by user Admin.
+To: salesperson2@gmail.ca 
+From: admin@gmail.ca 
+Subject: Password Reset 
+Dear Meg,
+As requested, your password was succesfully reset at 2022-11-24 17:09:56 by admin@gmail.ca.
+Your temporary password is: 637febb484e3c
+Please update your password next time you log-in. Thank you!You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User salesperson2@gmail.ca sign in.
+Password successfully changed 20221124 for user Meg.
+You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User admin@gmail.ca sign in.
+Failed attempt to reset salesperson password by user: Admin at 2022-11-24 17:12:07.
+You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User admin@gmail.ca sign in.
+Failed attempt to reset salesperson password by user: Admin at 2022-11-24 17:12:58.
+Password reset at 2022-11-24 17:13:06 for user salesperson2@gmail.ca by user Admin.
+To: salesperson2@gmail.ca 
+From: admin@gmail.ca 
+Subject: Password Reset 
+Dear Meg,
+As requested, your password was succesfully reset at 2022-11-24 17:13:06 by admin@gmail.ca.
+Your temporary password is: 637fec7300098
+Please update your password next time you log-in. Thank you!You sucessfully log out at 20221124. User .
+Sign in success at 20221124. User salesperson2@gmail.ca sign in.
+Password successfully changed 20221124 for user Meg.

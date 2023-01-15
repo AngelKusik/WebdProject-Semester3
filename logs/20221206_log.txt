@@ -1,0 +1,6 @@
+Sign in success at 20221206. User admin@gmail.ca sign in.
+Status update: User salesperson1@gmail.ca had status updated to Inactive at 2022-12-06 16:26:41 by Admin.
+Status update: User salesperson1@gmail.ca had status updated to Active at 2022-12-06 16:26:48 by Admin.
+You sucessfully log out at 20221206. User .
+Failed sign in attempt at 2022-12-06 17:14:33 User salesperson2@gmail.ca.
+Sign in success at 20221206. User admin@gmail.ca sign in.

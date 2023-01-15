@@ -1,0 +1,26 @@
+Sign in success at 20221205. User admin@gmail.ca sign in.
+You sucessfully log out at 20221205. User .
+Failed sign in attempt at 2022-12-05 20:39:27 User salesperson2@gmail.ca.
+Sign in success at 20221205. User admin@gmail.ca sign in.
+You sucessfully log out at 20221205. User .
+Sign in success at 20221205. User akusik@dcmail.ca sign in.
+New salesperson:  , successfully added at 2022-12-05 20:58:46 by Angelica.
+Status update: User salesperson2@gmail.ca had status updated to Inactive at 2022-12-05 21:34:19 by Angelica.
+You sucessfully log out at 20221205. User .
+Failed sign in attempt at 2022-12-05 21:36:28 User salesperson2@gmail.ca.
+Sign in success at 20221205. User salesperson2@gmail.ca sign in.
+You sucessfully log out at 20221205. User .
+Sign in success at 20221205. User admin@gmail.ca sign in.
+You sucessfully log out at 20221205. User .
+Failed sign in attempt at 2022-12-05 21:58:44 User .
+Sign in success at 20221205. User salesperson1@gmail.ca sign in.
+You sucessfully log out at 20221205. User .
+Sign in success at 20221205. User admin@gmail.ca sign in.
+You sucessfully log out at 20221205. User .
+Failed sign in attempt at 2022-12-05 22:00:19 User salesperson2@gmail.ca.
+Failed sign in attempt at 2022-12-05 22:00:56 User .
+Sign in success at 20221205. User admin@gmail.ca sign in.
+Status update: User salesperson2@gmail.ca had status updated to Active at 2022-12-05 22:01:18 by Admin.
+You sucessfully log out at 20221205. User .
+Sign in success at 20221205. User salesperson2@gmail.ca sign in.
+You sucessfully log out at 20221205. User .
