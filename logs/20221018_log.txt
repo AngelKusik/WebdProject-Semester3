@@ -1,0 +1,24 @@
+Failed sign in attempt at 2022-10-18 17:39:05 User .
+Failed sign in attempt at 2022-10-18 17:46:20 User .
+Failed sign in attempt at 2022-10-18 17:54:17 User .
+Failed sign in attempt at 2022-10-18 17:55:10 User akusik@dcmail.ca.
+Sign in success at 20221018. User akusik@dcmail.ca sign in.
+Failed attempt to add new salesperson  by user:  at 2022-10-18 18:02:16.
+New salesperson sammy sammy was successfully added at 2022-10-18 18:03:04 by .
+New salesperson jane jane was successfully added at 2022-10-18 18:03:37 by .
+You sucessfully log out at 20221018. User .
+Sign in success at 20221018. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221018. User .
+Failed sign in attempt at 2022-10-18 18:15:30 User .
+Failed sign in attempt at 2022-10-18 18:15:41 User .
+Failed sign in attempt at 2022-10-18 18:16:12 User .
+Failed sign in attempt at 2022-10-18 18:16:52 User .
+Failed sign in attempt at 2022-10-18 18:17:22 User akusik@dcmail.ca.
+Failed sign in attempt at 2022-10-18 18:17:25 User akusik@dcmail.ca.
+Sign in success at 20221018. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221018. User .
+Sign in success at 20221018. User salesperson@gmail.ca sign in.
+You sucessfully log out at 20221018. User .
+Sign in success at 20221018. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20221018. User .
+You sucessfully log out at 20221018. User .

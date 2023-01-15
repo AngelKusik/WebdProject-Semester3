@@ -1,0 +1,92 @@
+Sign in success at 2022-09-30 11:16:08.User akusik@dcmail.ca sign in.
+Sign in success at 2022-09-30 11:17:27.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 11:45:06. User .
+Sign in failed at 2022-09-30 11:46:31 User a@a sign in.
+Sign in failed at 2022-09-30 11:46:38 User f@d sign in.
+Sign in failed at 2022-09-30 11:46:51 User i@ioo sign in.
+You sucessfully log out at 2022-09-30 11:53:08. User .
+Sign in success at 2022-09-30 11:53:12.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 11:54:07. User .
+Sign in success at 2022-09-30 11:54:12.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 11:55:18. User .
+Sign in success at 2022-09-30 11:55:25.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:00:49. User .
+Sign in success at 2022-09-30 12:00:52.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:01:09. User .
+Sign in success at 2022-09-30 12:03:36.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:04:14. User .
+Sign in success at 2022-09-30 12:04:20.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:04:24. User .
+Sign in success at 2022-09-30 12:04:48.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:05:14. User .
+Sign in success at 2022-09-30 12:05:18.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:05:57. User .
+Sign in success at 2022-09-30 12:06:02.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:06:04. User .
+Sign in success at 2022-09-30 12:08:33.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:09:19. User .
+Sign in success at 2022-09-30 12:09:23.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:18:24. User .
+Sign in success at 2022-09-30 12:18:47.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:18:49. User .
+Sign in success at 2022-09-30 12:20:12.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:20:20. User .
+Sign in success at 2022-09-30 12:23:08.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 12:23:14. User .
+Sign in success at 2022-09-30 13:07:34.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:17:12. User .
+Sign in success at 2022-09-30 13:18:23.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:19:04. User .
+Sign in success at 2022-09-30 13:19:08.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:20:44. User .
+Sign in success at 2022-09-30 13:20:49.User akusik@dcmail.ca sign in.
+Sign in success at 2022-09-30 13:21:10.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:21:13. User .
+Sign in success at 2022-09-30 13:21:16.User akusik@dcmail.ca sign in.
+Sign in success at 2022-09-30 13:23:48.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:23:52. User .
+Sign in success at 2022-09-30 13:23:56.User akusik@dcmail.ca sign in.
+Sign in success at 2022-09-30 13:24:12.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:24:14. User .
+Sign in success at 2022-09-30 13:24:19.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:24:50. User .
+Sign in success at 2022-09-30 13:25:02.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:25:34. User .
+Sign in success at 2022-09-30 13:25:38.User akusik@dcmail.ca sign in.
+Sign in success at 2022-09-30 13:25:57.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:26:00. User .
+Sign in success at 2022-09-30 13:26:03.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:30:51. User .
+Sign in failed at 2022-09-30 13:30:57 User a@l sign in.
+Sign in failed at 2022-09-30 13:32:08 User an@a.h sign in.
+Sign in success at 2022-09-30 13:32:17.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:39:59. User .
+Sign in success at 2022-09-30 13:40:03.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:40:22. User .
+Sign in failed at 2022-09-30 13:40:26 User akusik@dcmail.ca sign in.
+Sign in success at 2022-09-30 13:41:11.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:41:51. User .
+Sign in failed at 2022-09-30 13:41:58 User a@a sign in.
+Sign in success at 2022-09-30 13:42:01.User akusik@dcmail.ca sign in.
+Sign in success at 2022-09-30 13:42:31.User akusik@dcmail.ca sign in.
+You sucessfully log out at 2022-09-30 13:43:47. User .
+Sign in success at 2022-09-30 13:44:07.User akusik@dcmail.ca sign in.
+Sign in success at 20220930. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20220930. User .
+Sign in success at 20220930. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20220930. User .
+Failed sign in attempt at  User a@a.
+Failed sign in attempt at 20220930 User a@f.
+Failed sign in attempt at 2022-09-30 13:59:02 User a@df.
+Failed sign in attempt at 2022-09-30 13:59:20 User mike@ssss.ca.
+Sign in success at 20220930. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20220930. User .
+Sign in success at 20220930. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20220930. User .
+Sign in success at 20220930. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20220930. User .
+Sign in success at 20220930. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20220930. User .
+Sign in success at 20220930. User akusik@dcmail.ca sign in.
+You sucessfully log out at 20220930. User .
+Sign in success at 20220930. User jdoe@dcmail.ca sign in.

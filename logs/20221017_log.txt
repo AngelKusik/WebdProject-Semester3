@@ -1,0 +1,39 @@
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+Failed sign in attempt at 2022-10-17 21:24:01 User .
+Failed sign in attempt at 2022-10-17 21:24:06 User .
+Failed sign in attempt at 2022-10-17 21:24:19 User .
+Failed sign in attempt at 2022-10-17 21:24:31 User .
+Sign in success at 20221017. User yuri@dcmail.ca sign in.
+You sucessfully log out at 20221017. User .
+You sucessfully log out at 20221017. User .
+Failed sign in attempt at 2022-10-17 21:33:42 User .
+Failed sign in attempt at 2022-10-17 21:33:53 User .
+Failed sign in attempt at 2022-10-17 21:33:57 User .
+Failed sign in attempt at 2022-10-17 21:34:02 User .
+Failed sign in attempt at 2022-10-17 21:34:06 User .
+Failed sign in attempt at 2022-10-17 21:34:17 User .
+Failed sign in attempt at 2022-10-17 21:34:36 User .
+Failed sign in attempt at 2022-10-17 21:35:24 User .
